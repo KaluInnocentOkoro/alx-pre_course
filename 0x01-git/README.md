@@ -1,6 +1,6 @@
 0x01. Git
 =========
-Resources
+Resources:
 ---------
 
 **Read or watch:**
